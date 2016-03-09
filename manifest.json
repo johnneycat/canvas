@@ -1,0 +1,15 @@
+{
+    "name": "canvas.liu-xiao-guo",
+    "description": "description of canvas",
+    "architecture": "all",
+    "title": "canvas",
+    "hooks": {
+        "canvas": {
+            "apparmor": "canvas.apparmor",
+            "desktop": "canvas.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework": "ubuntu-sdk-14.10"
+}

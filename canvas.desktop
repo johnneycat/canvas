@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=canvas
+Exec=qmlscene $@ Main.qml
+Icon=canvas.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
